@@ -24,10 +24,3 @@
 </div>
 
 
-
-### 📊  GitHub 统计
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wds824&show_icons=true&theme=tokyonight" alt="wds824's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wds824&layout=compact&theme=tokyonight" alt="wds824's Top Languages" />
-</p>
